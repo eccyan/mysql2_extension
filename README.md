@@ -1,4 +1,4 @@
-# Activerecord::Mysql2::Extensions
+# Mysql2Extensions
 
 TODO: Write a gem description
 
@@ -6,7 +6,7 @@ TODO: Write a gem description
 
 Add this line to your application's Gemfile:
 
-    gem 'activerecord-mysql2-extensions'
+    gem 'mysql2extensions'
 
 And then execute:
 
@@ -14,7 +14,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install activerecord-mysql2-extensions
+    $ gem install mysql2extensions
 
 ## Usage
 
